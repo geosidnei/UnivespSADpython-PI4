@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Dec 16 16:20:05 2019
+Criado em 2a-feira, 16 Dez. 2019 16:20:05
+Testado novamente em 3a-feira, 27 Jul. 2021 - 19:00
 SadFotovoltaicoAlphaVersion
 @author: sidnei lopes ribeiro
 
@@ -174,5 +175,3 @@ print ("O sistema da empresa Elektro S.A., devido ao seu superdimensionamento,")
 print ("também propiciará um fornecimento de, no máximo, 65,6 KWp à rede elétrica")
 print ("que poderá abastecer as residências vizinhas de eletricidade e")
 print ("se reverter em renda à escola, caso a legislação continue como está.")
-
-# return sid7b1
