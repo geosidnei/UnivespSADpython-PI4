@@ -4,4 +4,4 @@ Projeto Integrador 4 - Univesp
 
 ![Tela1](https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/Tela1.png)
 
-![Tela1](https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/Tela1.png)
+![graficos1e2](https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/graficos1e2.png)
