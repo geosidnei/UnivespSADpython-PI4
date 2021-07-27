@@ -7,5 +7,7 @@ Projeto Integrador 4 - Univesp
 ![Tela1](https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/Tela1.png)
 
 # Resultados em formato gráfico:
-Gráficos 1 e 2:
+
 ![graficos1e2](https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/graficos1e2.png)
+Gráficos 1 e 2
+
