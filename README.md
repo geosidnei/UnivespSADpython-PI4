@@ -11,8 +11,8 @@ Projeto Integrador 4 - Univesp
 ![graficos1e2](https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/graficos1e2.png)
 Gráficos 1 e 2
 
-!.[grafico3].(https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/grafico3.png)
+![grafico3](https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/grafico3.png)
 
-!.[grafico4].(https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/grafico4.png)
+![grafico4](https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/grafico4.png)
 
-!.[grafico5].(https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/grafico5.png)
+![grafico5](https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/grafico5.png)
